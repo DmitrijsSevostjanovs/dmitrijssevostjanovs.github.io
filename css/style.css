@@ -9,6 +9,17 @@
 .c{
 	background-color: darkred;
 }
+.d{
+	 background-color: brown;
+ }
+.e{
+	color: orangered;
+}
+.f{
+	color:gold;
+	background-color: darkslategrey;
+
+}
 
 .title{
 	text-align: center;
